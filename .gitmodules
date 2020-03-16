@@ -1,3 +1,6 @@
 [submodule "private"]
 	path = private
 	url = https://github.com/ekolve/test-repo3.git
+[submodule "private-1"]
+	path = private-1
+	url = https://github.com/ekolve/test-repo3.git
